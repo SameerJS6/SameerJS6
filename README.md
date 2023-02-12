@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Sameerjs6&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 <br/>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerjs6&hide_border=true&layout=compact" align="center"></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerjs6&hide_border=true&layout=compact" align="center" style="width: 100%">
 
 
 </div>

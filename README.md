@@ -17,8 +17,6 @@
 
 ## My Skill Set
 
----
-
 <br>
 
 <div align="center">  
@@ -38,9 +36,29 @@
 
 <br/>
 
+## My Favorite Repositories
+
+
+My Personal Favorite Project is my own [Personal Portfolio](https://github.com/SameerJS6/Personal-Portfolio), Although it's not yet complete. Here's the current list:-
+
+1. [Tip Calculator](https://github.com/SameerJS6/Tip-Calculator-App) | [Preview](https://tip-calculator-singh.netlify.app/)
+
+   - The reason it's my favorite is because it was my first complex Javascript project. I developed a local stored dark theme and animated it, along with all the minor details to create an engaging and interactive UI/UX for users.
+
+2. [Github User Seach](https://github.com/SameerJS6/Github-User-Search-App) | [Preview](https://github-search-app-singh.netlify.app/)
+   - It was my API project, where I fetched all the data through the Github User API. This was also my first time implementing a screen loader.
+3. [Rooms Homepage](https://github.com/SameerJS6/React-Projects/tree/master/Room-Homepage) | [Preview](https://home-sameer.netlify.app/)
+
+   - This was my fist time using GSAP, to animate anything, and i really liked how it worked out.
+
+- Few My Own UI Projects, that i really like how they turned:-
+  - [Accordion](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/04-accordion) | [Preview](https://accordion-singh.netlify.app/)
+    - This basic accordion boasts a beautiful and visually appealing color palette, as well as smooth ripples and hover effects.
+  - [Advice Generator](https://github.com/SameerJS6/React-Projects/tree/master/Basic-Advice-Generator) | [Preview](https://advice-generator-singh.netlify.app/)
+    - This one involves my personal favorite colors, black and green. The design is subtle and dark, with rounded squares floating in the background. I really like this one.
+
 ## Github Stats
 
----
 
 <br/>
 <div align="center">
@@ -57,8 +75,6 @@
 <br/>
 
 ## My Music
-
----
 
 <br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7c7orvxgd15a1bkpnkuap9frb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" align="center" /></div>

@@ -47,6 +47,8 @@ My Personal Favorite Project is my own [Personal Portfolio](https://github.com/S
 
 2. [Github User Seach](https://github.com/SameerJS6/Github-User-Search-App) | [Preview](https://github-search-app-singh.netlify.app/)
    - It was my API project, where I fetched all the data through the Github User API. This was also my first time implementing a screen loader.
+3. [Dummy Text Generator](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/08-Lorem-Ipsum-Generator) | [Preview](https://dummy-text-generator-singh.netlify.app/)
+   - This might be my one of the best work, interms of everything from UI, Colors to Writing and thinking in React.
 3. [Rooms Homepage](https://github.com/SameerJS6/React-Projects/tree/master/Room-Homepage) | [Preview](https://home-sameer.netlify.app/)
 
    - This was my fist time using GSAP, to animate anything, and i really liked how it worked out.

@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/SameerJS6/Personal-Portfolio). In the meantime, feel free to checkout [Reactfolio](https://reactfolio-dev.netlify.app/)
+- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to checkout [Reactfolio](https://reactfolio-dev.netlify.app/)
 
 - 🌱 I’m currently learning React And GSAP.
 
@@ -39,25 +39,20 @@
 ## My Favorite Repositories
 
 
-My Personal Favorite Project is my own [Personal Portfolio](https://github.com/SameerJS6/Personal-Portfolio), Although it's not yet complete. Here's the current list:-
+My Personal Favorite Project is my [Reactfolio](https://reactfolio-dev.netlify.app/), but here are some other ones:
 
-1. [Tip Calculator](https://github.com/SameerJS6/Tip-Calculator-App) | [Preview](https://tip-calculator-singh.netlify.app/)
+1. [Reactfolio](https://github.com/SameerJS6/Reactfolio) | [Preview](https://reactfolio-dev.netlify.app/)
+
+   - Reactfolio is a showcase webpage for all my React Projects, and its based on Material Design 3. Reactfolio is by far my best design work.
+2. [Tip Calculator](https://github.com/SameerJS6/Tip-Calculator-App) | [Preview](https://tip-calculator-singh.netlify.app/)
 
    - The reason it's my favorite is because it was my first complex Javascript project. I developed a local stored dark theme and animated it, along with all the minor details to create an engaging and interactive UI/UX for users.
 
-2. [Github User Seach](https://github.com/SameerJS6/Github-User-Search-App) | [Preview](https://github-search-app-singh.netlify.app/)
+3. [Github User Seach](https://github.com/SameerJS6/Github-User-Search-App) | [Preview](https://github-search-app-singh.netlify.app/)
    - It was my API project, where I fetched all the data through the Github User API. This was also my first time implementing a screen loader.
-3. [Dummy Text Generator](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/08-Lorem-Ipsum-Generator) | [Preview](https://dummy-text-generator-singh.netlify.app/)
+4. [Dummy Text Generator](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/08-Lorem-Ipsum-Generator) | [Preview](https://dummy-text-generator-singh.netlify.app/)
    - This might be my one of the best work, interms of everything from UI, Colors to Writing and thinking in React.
-3. [Rooms Homepage](https://github.com/SameerJS6/React-Projects/tree/master/Room-Homepage) | [Preview](https://home-sameer.netlify.app/)
 
-   - This was my fist time using GSAP, to animate anything, and i really liked how it worked out.
-
-- Few My Own UI Projects, that i really like how they turned:-
-  - [Accordion](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/04-accordion) | [Preview](https://accordion-singh.netlify.app/)
-    - This basic accordion boasts a beautiful and visually appealing color palette, as well as smooth ripples and hover effects.
-  - [Advice Generator](https://github.com/SameerJS6/React-Projects/tree/master/Basic-Advice-Generator) | [Preview](https://advice-generator-singh.netlify.app/)
-    - This one involves my personal favorite colors, black and green. The design is subtle and dark, with rounded squares floating in the background. I really like this one.
 
 ## Github Stats
 

@@ -5,9 +5,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to checkout [Reactfolio](https://reactfolio-dev.netlify.app/)
+- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/)
 
-- 🌱 I’m currently learning React And GSAP.
+- 🌱 I’m currently learning React.
 
 - ❓ Ask me about anything related to Frontend and Related Technologies
 

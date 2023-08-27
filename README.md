@@ -1,17 +1,14 @@
 <div align="center"><img src="https://media2.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif" alt="Banner" margin="0 auto"/></div>
 <br/>
 
-## <div align="center">I'm Sameer, A Frontend developer 👨‍💻 passionate about creating engaging & Interactive UI.🚀</div>
+## <div align="center">I'm Sameer, A Frontend Developer 👨‍💻 Passionate About Creating Engaging & Interactive UI.🚀</div>
 
 <br/>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/)
-
+- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Siplore](https://siplore.netlify.app/)
+- ⚡ Fun fact: My Top 3 qualities are 720p, 4k & My Ability to Overthink Anything.
 - 🌱 I’m currently learning React && TypeScript.
 
-- ❓ Ask me about anything related to Frontend and Related Technologies
-
-- ⚡ Fun fact: My Top 3 qualities are 720p, 4k & My Ability to Overthink Anything
 
 <br/>
 
@@ -42,14 +39,13 @@ My Personal Favorite Project is my [Reactfolio](https://reactfolio-dev.netlify.a
 1. [Reactfolio](https://github.com/SameerJS6/Reactfolio) | [Preview](https://reactfolio-dev.netlify.app/)
 
    - Reactfolio is a showcase webpage for all my React Projects, and its based on Material Design 3. Reactfolio is by far my best design work.
+
+1. [Siplore](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/15-Siplore) | [Preview](https://siplore.netlify.app/)
+
+   - Siplore, the crown jewel of my John Smilga React Projects Solution, is a remarkable four-page website. Crafted with React Router and Tailwind CSS, it stands as a testament to my skill and dedication.
 2. [Tip Calculator](https://github.com/SameerJS6/Tip-Calculator-App) | [Preview](https://tip-calculator-singh.netlify.app/)
 
    - The reason it's my favorite is because it was my first complex Javascript project. I developed a local stored dark theme and animated it, along with all the minor details to create an engaging and interactive UI/UX for users.
-
-3. [Github User Seach](https://github.com/SameerJS6/Github-User-Search-App) | [Preview](https://github-search-app-singh.netlify.app/)
-   - It was my API project, where I fetched all the data through the Github User API. This was also my first time implementing a screen loader.
-4. [Dummy Text Generator](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/08-Lorem-Ipsum-Generator) | [Preview](https://dummy-text-generator-singh.netlify.app/)
-   - This might be my one of the best work, interms of everything from UI, Colors to Writing and thinking in React.
 
 
 ## Github Stats

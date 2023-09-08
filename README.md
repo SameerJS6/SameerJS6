@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://sameer-dev.netlify.app/). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Siplore](https://siplore.netlify.app/)
+- 🔭 I’m currently working on [NoteSync](https://github.com/SameerJS6/NoteSync). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Siplore](https://siplore.netlify.app/)
 - ⚡ Fun fact: My Top 3 qualities are 720p, 4k & My Ability to Overthink Anything.
 - 🌱 I’m currently learning React && TypeScript.
 

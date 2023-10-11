@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [NoteSync](https://github.com/SameerJS6/NoteSync). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Siplore](https://siplore.netlify.app/)
+- 🔭 I’m currently working on [NoteSync](https://github.com/SameerJS6/NoteSync). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Avo](https://avo-todo.netlify.app/)
 - ⚡ Fun fact: My Top 3 qualities are 720p, 4k & My Ability to Overthink Anything.
 - 🌱 I’m currently learning React && TypeScript.
 
@@ -38,14 +38,15 @@ My Personal Favorite Project is my [Reactfolio](https://reactfolio-dev.netlify.a
 
 1. [Reactfolio](https://github.com/SameerJS6/Reactfolio) | [Preview](https://reactfolio-dev.netlify.app/)
 
-   - Reactfolio is a showcase webpage for all my React Projects, and its based on Material Design 3. Reactfolio is by far my best design work.
+   - Reactfolio is a showcase webpage for all my React Projects, and it's based on Material Design 3. Reactfolio is by far my best design work.
+
+1. [Avo](https://github.com/SameerJS6/Avo) | [Preview](https://avo-todo.netlify.app/)
+
+   - Avo is a full-stack Todo application built using Firebase, Framer Motion, etc. It provides a user-friendly interface for creating, organizing, and tracking your to-do items, whether you're using it for personal or professional tasks.
 
 1. [Siplore](https://github.com/SameerJS6/John-Smilga-React-Solutions/tree/master/15-Siplore) | [Preview](https://siplore.netlify.app/)
 
    - Siplore, the crown jewel of my John Smilga React Projects Solution, is a remarkable four-page website. Crafted with React Router and Tailwind CSS, it stands as a testament to my skill and dedication.
-2. [Tip Calculator](https://github.com/SameerJS6/Tip-Calculator-App) | [Preview](https://tip-calculator-singh.netlify.app/)
-
-   - The reason it's my favorite is because it was my first complex Javascript project. I developed a local stored dark theme and animated it, along with all the minor details to create an engaging and interactive UI/UX for users.
 
 
 ## Github Stats

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NoteSync](https://github.com/SameerJS6/NoteSync). In the meantime, feel free to check out [Reactfolio](https://reactfolio-dev.netlify.app/) || [Avo](https://avo-todo.netlify.app/)
 - ⚡ Fun fact: My Top 3 qualities are 720p, 4k & My Ability to Overthink Anything.
-- 🌱 I’m currently learning Figma && Backend In Node.
+- 🌱 I’m currently learning Backend In Node.
 
 
 <br/>

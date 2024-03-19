@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media2.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif" alt="Banner" margin="0 auto"/></div>
 <br/>
 
-## <div align="center">I'm Sameer, A Frontend Developer 👨‍💻 Passionate About Creating Engaging & Interactive UI.🚀</div>
+## <div align="center">"I'm Sameer, a Frontend Developer dedicated to crafting engaging and interactive user interfaces."</div>
 
 <br/>
 
